@@ -1,6 +1,6 @@
 <div align="center">
-<img width="75%" height = "250px" src="https://[camo.githubusercontent.com/[f0b6672766257f78d5e9608ae6aea2ffd11b0e03649f00587dcd72c308af8f11/68747470733a2f2f7777772e6469676974616c6f6e75732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f444f552d474946342e676966]](https://images.ctfassets.net/wfutmusr1t3h/5G520DisN7Ywj5M8W4QOaV/8b48221727a409b15c448017c465cab1/AWS_reInvent_LP.png?w=1280&q=75)(https://images.ctfassets.net/wfutmusr1t3h/5G520DisN7Ywj5M8W4QOaV/8b48221727a409b15c448017c465cab1/AWS_reInvent_LP.png?w=1280&q=75)" alt="cover" />
-</div>
+<img width="75%" height = "250px" src="
+</div>https://miro.medium.com/v2/resize:fit:1100/format:webp/1*GO-D3RYYwFdSW5yeO3HH9g.png
  
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
