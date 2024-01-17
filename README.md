@@ -1,27 +1,27 @@
 <div align="center">
-<img width="75%" height = "250px" src="
-</div>https://miro.medium.com/v2/resize:fit:1100/format:webp/1*GO-D3RYYwFdSW5yeO3HH9g.png
+<img width="75%" height = "250px" src="[https://camo.githubusercontent.com/f0b6672766257f78d5e9608ae6aea2ffd11b0e03649f00587dcd72c308af8f11/68747470733a2f2f7777772e6469676974616c6f6e75732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f444f552d474946342e676966](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*GO-D3RYYwFdSW5yeO3HH9g.png)" alt="cover" />
+</div>
  
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
  
  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DarrellMusi.DarrellMusi)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Sensini7.Sensini7)
  
  
 </p>
-<div size='20px'> Hi! I'm Darrell Musi. A Cloud/DevOps Engineer. Welcome to my GitHub Profile :smile: </div>
+<div size='20px'> Hi! I'm Darrell Musi A Cloud/DevOps Engineer. Welcome to my GitHub Profile :smile: </div>
  
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
  
  
-- 🔭 I’m currently working on implementing Projects
+- 🔭 I’m currently working on Linux and DevOps Concepts/Projects
  
-- 🌱 I’m currently learning AWS Cloud Concepts
+- 🌱 I’m currently learning Linux,DevOps,
  
-- 👯 I’m looking to collaborate on Anything Cloud Cloud Computing
+- 👯 I’m looking to collaborate on Anything Cloud & DevOps related
  
-- 💬 Talk to me about AWS, Cloud Computing
+- 💬 Talk to me about AWS, Linux, Devops  
  
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
@@ -35,8 +35,8 @@
  
  
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<!-- <a href = 'https://linktr.ee/sensinipeleke'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> -->
-<a href = 'https://www.linkedin.com/musi-darrell/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://linktr.ee/sensinipeleke'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  
+<a href = 'https://www.linkedin.com/in/musi-darrell/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://twitter.com/darrell_musi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 <a href = 'https://github.com/DarrellMusi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
  
